@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  height: 100%;
+}	
+
+.splash-header {
+	width: 100%;
+	/* background-color: red; */
+	height: 100vh;
+}
+
+#canvas-1 {
+	height: 100vh;
+	width: 100%;
+	display: block;
+}
